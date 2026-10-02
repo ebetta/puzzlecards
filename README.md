@@ -1,3 +1,6 @@
-# Chuva de Cartas
+# Card Rain / Chuva de Cartas
 
-Política de privacidade do app Android Chuva de Cartas (com.betta.puzzlecards): https://ebetta.github.io/puzzlecards/privacy.html
+Privacy policy of the Android app Card Rain (com.betta.puzzlecards):
+
+- English (default): https://ebetta.github.io/puzzlecards/privacy.html
+- Português (Brasil): https://ebetta.github.io/puzzlecards/privacy-pt-BR.html
